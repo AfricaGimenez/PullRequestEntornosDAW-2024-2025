@@ -8,4 +8,4 @@ Alumnado (Apellidos, Nombre):
 - Garcia Martin, Alvaro
 - Zhang, Jiaxin
 - Haro Vicente, Aurora
-
+- Magaña Arcos, Nerea
